@@ -46,7 +46,13 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 0
+    },
+    {
+      "name": "deadpool 30th",
+      "image": "https://cdn.shopify.com/s/files/1/0244/2235/0953/products/STL171746_1200x1200.jpg?v=1613665180",
+      "likes": 2,
+      "id": 9
     }
   ]
 }
